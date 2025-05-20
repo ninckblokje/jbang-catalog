@@ -1,0 +1,14 @@
+{
+  "catalogs": {
+    "ninckblokje": {
+      "catalog-ref": "/Users/ninckblokje/dev/sources/jbang-catalog/jbang-catalog.json"
+    }
+  },
+  "aliases": {
+    "csheet": {
+      "script-ref": "https://github.com/ninckblokje/csheet-jbang/blob/master/csheet.java",
+      "description": "csheet made with JBang"
+    }
+  },
+  "templates": {}
+}
